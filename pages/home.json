@@ -1,0 +1,9 @@
+{
+    "hero":{
+        "slides":[
+            {"img_slider":"/images/pexels-anete-lusina-4792728.jpg"},
+            {"img_slider":"/images/pexels-mike-114820.jpg"},
+            {"img_slider":"/images/pexels-pixabay-267350.jpg"}
+        ]
+    }
+}

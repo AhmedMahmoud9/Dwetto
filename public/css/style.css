@@ -1,0 +1,67 @@
+html, body {
+    height:100%;
+    margin:0;
+    padding:0;
+    }
+
+.navbar {
+    background-color: #1f2935; 
+}
+
+
+.navbar .navbar-nav .nav-link {
+    color: #fff; 
+}
+
+.navbar .navbar-nav .nav-link:hover { 
+    color: #f38a21; 
+}
+
+.navbar .navbar-nav .active >  .nav-link { 
+    color: #f48a1d; 
+}
+.nav-link:hover
+{
+  border-bottom: 2px solid #f48a1d;
+}
+
+/****************ourCustomer******************/
+
+.carousel{
+    background-color: black;
+  /* background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.637)), to(rgba(0, 0, 0, 0.637))), url("../media/pexels-li-sun-2294361.jpg"); */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.637), rgba(0, 0, 0, 0.637)), url("../images/158279493_1412853609061935_6405417567853623229_n.png");
+  background-repeat: no-repeat;
+  background-size:auto;
+  background-attachment: fixed;
+}
+.img{
+    width: 30vw;
+    height: 30vh;
+    margin: 5vw;
+}
+
+/*********************footer******************/
+
+.footer{
+    background: #1f2935;
+}
+
+.footerHead{
+    color: #f38a21;
+}
+
+
+.footerLinks{
+    text-decoration: none;
+    
+}
+.footerLinks:hover{
+    color: #f38a21;
+}
+
+/*  */
+
+.card{
+    background-color: #f5f1f1;
+}
